@@ -76,82 +76,29 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "src={../../public/TravelApp.PNG}",
+const dataportfolio = [
+    {
+        img: "images/travelapp.jpg",
         desctiption: "This project uses AirBnb Api to create a live list with price and date by date, same as the original website. I named Travel App.",
         link: "https://meek-mandazi-606062.netlify.app/explore",
     },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_EMAIL: "raulmandujanoleon@gmail.com",
+    YOUR_FONE: "(385)335-3009",
+    description: "Feel free to contact me by text with any question",
+    YOUR_SERVICE_ID: "service_tlqzhid",
+    YOUR_TEMPLATE_ID: "template_sv5ydh8",
+    YOUR_USER_ID: "IHteEXMSTtQZrbwzH",
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/RaulMandujano",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/raul-mandujano-0a0858103/",
     twitter: "https://twitter.com",
     youtube: "https://youtube.com",
     twitch: "https://twitch.com",
